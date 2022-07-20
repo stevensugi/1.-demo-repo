@@ -1,7 +1,3 @@
-# Demo
+# Demo 2
 
-Some description!
-
-## Subheaders
-
-This is a subheader
+This is to learn git
